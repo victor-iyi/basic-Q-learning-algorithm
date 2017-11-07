@@ -15,10 +15,6 @@ __pycache__/
 
 ### VisualStudioCode template
 .vscode/*
-#!.vscode/settings.json
-#!.vscode/tasks.json
-#!.vscode/launch.json
-#!.vscode/extensions.json
 
 
 ### macOS template
@@ -26,9 +22,3 @@ __pycache__/
 *.DS_Store
 # Thumbnails
 ._*
-
-
-### Datasets
-datasets/
-models/
-tensorboard/
